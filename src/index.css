@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-vintage-ligtest: #F1F3E0;
+  --color-vintage-light: #D2DCB6;
+  --color-vintage-medium: #A1BC98;
+  --color-vintage-dark: #778873;
+  --color-vintage-darkest: #5a4522;
+}
